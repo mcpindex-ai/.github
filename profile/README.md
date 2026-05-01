@@ -33,8 +33,8 @@ Open methodology at [mcpindex.ai/methodology](https://mcpindex.ai/methodology). 
 
 ## Affiliation
 
-Unofficial. Not affiliated with Anthropic. The Model Context Protocol is open under MIT and trademarks remain with their owners.
+A personal research artifact, not a commercial product or service offering. Unofficial. Not affiliated with Anthropic. The Model Context Protocol is open under MIT and trademarks remain with their owners.
 
 ---
 
-Built by [Gautam Bharti](https://github.com/gautamgb). Owned by Bhartis LLC.
+Written by [Gautam Bharti](https://github.com/gautamgb). More analysis at [seekgb.com](https://seekgb.com).
